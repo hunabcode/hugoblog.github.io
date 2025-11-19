@@ -8,6 +8,18 @@ theme: jekyll-theme-hacker
 markdown: kramdown
 highlighter: rouge
 
-# Optional settings
-show_downloads: false
-google_analytics: 
+# Navigation links (will show at the top)
+header_pages:
+  - about.md
+  - contact.md
+  - blog.md
+
+# Social links
+social_links:
+  twitter: your_twitter
+  github: yourusername
+  linkedin: your_linkedin
+  facebook: your_facebook
+
+
+
