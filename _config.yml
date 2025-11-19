@@ -1,25 +1,9 @@
-title: My Blog
-description: A blog using The Hacker theme on GitHub Pages
-url: "https://yourusername.github.io"
-baseurl: ""
-
+title: Hugo´s blog
+description: I want to share my learning journey with the world
 theme: jekyll-theme-hacker
-
-markdown: kramdown
-highlighter: rouge
-
-# Navigation links (will show at the top)
 header_pages:
   - about.md
   - contact.md
   - blog.md
-
-# Social links
-social_links:
-  twitter: your_twitter
-  github: yourusername
-  linkedin: your_linkedin
-  facebook: your_facebook
-
 
 
