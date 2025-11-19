@@ -1,6 +1,6 @@
 title: Hugo´s blog
 description: I want to share my learning journey with the world
-theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker@v0.2.0
 header_pages:
   - about.md
   - contact.md
