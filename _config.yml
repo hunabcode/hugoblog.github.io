@@ -1,6 +1,13 @@
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: My Blog
+description: A blog using The Hacker theme on GitHub Pages
+url: "https://yourusername.github.io"
+baseurl: ""
 
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-hacker
+
+markdown: kramdown
+highlighter: rouge
+
+# Optional settings
+show_downloads: false
+google_analytics: 
