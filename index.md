@@ -2,8 +2,8 @@
 layout: default
 ---
 
-welcome to my blogging journey, hopw you can learn with me`keyword`.
+`welcome to my blogging journey, hopw you can learn with me.`
 
-[Link to another page](./another-page.html).
-[Link to another page](./another-page.html).
-[Link to another page](./another-page.html).
+**[about](./about.html).**
+**[blog](./blog.html).**
+`[projects](./projects.html).`
