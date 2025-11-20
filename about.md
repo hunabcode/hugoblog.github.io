@@ -1,1 +1,9 @@
-hey this is Hugo
+---
+layout: default
+---
+[back](./)
+
+## ~$ whoami
+
+hello this is me 
+
