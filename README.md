@@ -1,2 +1,2 @@
-# hugoblog.github.io
-Personal blog to describe my learning journey
+# HUGO  IT
+This blog is  coming to life with the desire to document my learning journey.
