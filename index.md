@@ -6,4 +6,4 @@ layout: default
 
 **[about](./about.html).**
 **[blog](./blog.html).**
-`[projects](./projects.html).`
+**[projects](./projects.html).**
