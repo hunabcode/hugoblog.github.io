@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: project
 title: "Home Lab Setup"
 date: 2026-09-04
 published: true
